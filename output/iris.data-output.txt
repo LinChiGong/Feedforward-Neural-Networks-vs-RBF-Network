@@ -1,0 +1,1104 @@
+Dataset: iris from UCI Machine Learning repository
+
+ ---------------------------- 
+| FEEDFORWARD NEURAL NETWORK |
+ ---------------------------- 
+
+0 HIDDEN LAYERS - CROSS VALIDATION FOLD 1
+=========================================
+
+Weights of each node
+--------------------
+Output layer: 
+Output node 1: [ -0.8242461096947054 -5.7700690591816 2.3422330611746456 -1.6287959552119315 ]
+Output node 2: [ 1.3697332049295357 -2.0661963917062387 4.226526789613771 6.711399081869843 ]
+Output node 3: [ -2.1301005959894246 3.658664017817038 -4.909818859342935 -4.831688179234077 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 86.67%
+
+
+1 HIDDEN LAYERS - CROSS VALIDATION FOLD 1
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 1.0504623253075827 -1.09440128584405 2.131860262786725 2.411913564476699 ]
+Hidden node 2: [ -0.6621302958512806 0.6998000615402339 -1.4371899635019996 -1.6592444320979738 ]
+Hidden node 3: [ 1.2658507368234158 -1.3586749863145535 2.609612362914645 2.8185864764272 ]
+Output layer: 
+Output node 1: [ -0.06474361611883464 -0.25876854802194854 0.8926503283981088 ]
+Output node 2: [ 2.451861611682134 -2.853065461594684 2.7572194266821612 ]
+Output node 3: [ -3.153659059476752 1.7315215285853969 -3.9729278059821436 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 90.0%
+
+
+2 HIDDEN LAYERS - CROSS VALIDATION FOLD 1
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.8410567669119876 -1.0445590464996808 1.7581042766203845 1.9071729866745244 ]
+Hidden node 2: [ 0.8327316296325377 -1.0472006768622975 1.7648143064009993 1.912229821584969 ]
+Hidden node 3: [ 0.8226582056277878 -1.0209316754995632 1.7216048897814162 1.8676029271924235 ]
+Hidden layer: 
+Hidden node 1: [ 2.951350515787122 2.959179147606273 2.866569166441969 ]
+Hidden node 2: [ 0.8229786615131677 0.8064259281434737 0.8188047798753549 ]
+Hidden node 3: [ 0.7459605944892681 0.7531662444290961 0.7422126969635126 ]
+Output layer: 
+Output node 1: [ 1.2745621517485997 -0.20375700978483088 -0.29097288498022944 ]
+Output node 2: [ 4.504368489249375 -0.9847908880554799 -1.2605130951731214 ]
+Output node 3: [ -5.8074012598477225 0.35027804711773936 0.6919932884365259 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 93.33%
+
+
+0 HIDDEN LAYERS - CROSS VALIDATION FOLD 2
+=========================================
+
+Weights of each node
+--------------------
+Output layer: 
+Output node 1: [ 0.317231939807024 -5.594927138088514 1.806434909909491 -1.9769632708306886 ]
+Output node 2: [ 0.43488542561731636 -1.8951306476637468 4.534125999896183 6.930339877697976 ]
+Output node 3: [ -2.1025829316095273 3.7301797473109994 -4.884627867091637 -4.788440623746083 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 93.33%
+
+
+1 HIDDEN LAYERS - CROSS VALIDATION FOLD 2
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.4726158756240668 -0.3941164648111012 0.874204690655191 0.9364228374950302 ]
+Hidden node 2: [ 1.3555276694028475 -1.4115138767954687 2.690299537098759 2.8591998284284554 ]
+Hidden node 3: [ -0.04607543789139643 0.33169136703318663 -0.21900829962692958 -0.2338675845927037 ]
+Output layer: 
+Output node 1: [ 0.003121865179992927 0.983302322531367 -0.40183378662544295 ]
+Output node 2: [ 0.47967900644666717 2.935438495329702 -1.0327837142788086 ]
+Output node 3: [ -1.0011568275510596 -4.153898231096598 0.6705473933840571 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 90.0%
+
+
+2 HIDDEN LAYERS - CROSS VALIDATION FOLD 2
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.514201327080572 -1.274445812644645 1.7330984705158379 1.9890548462314481 ]
+Hidden node 2: [ 0.5186790608786834 -1.3125171350176046 1.7714611873328074 2.022891695038717 ]
+Hidden node 3: [ 0.5155181521273644 -1.2721943627260492 1.7400877389008111 1.9898899099588807 ]
+Hidden layer: 
+Hidden node 1: [ 3.039294162025616 3.1276780381766347 3.0481154381067332 ]
+Hidden node 2: [ 0.8218047823108608 0.8194448429636328 0.8164618802966396 ]
+Hidden node 3: [ 0.73931149365533 0.7455690970967099 0.7620827869994722 ]
+Output layer: 
+Output node 1: [ 1.0982621250867344 -0.20988640274329495 -0.29527699066649027 ]
+Output node 2: [ 5.3957537531723885 -1.1679592680173796 -1.4522603411567256 ]
+Output node 3: [ -6.4721070411233805 0.3603961810365433 0.7236472261086164 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 90.0%
+
+
+0 HIDDEN LAYERS - CROSS VALIDATION FOLD 3
+=========================================
+
+Weights of each node
+--------------------
+Output layer: 
+Output node 1: [ -0.03452109939514934 -3.0899028414882466 1.094701289610001 -0.4968839372157261 ]
+Output node 2: [ 0.877652709646559 -0.8503818158852724 2.0976106915070796 3.5348095665664645 ]
+Output node 3: [ -1.52814285260445 2.506917911741185 -3.3613663250017627 -3.3450829450455815 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 90.0%
+
+
+1 HIDDEN LAYERS - CROSS VALIDATION FOLD 3
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.8936107771316171 -0.8769492978353216 1.886172367479639 2.248898874981809 ]
+Hidden node 2: [ 0.11424261010083485 0.3740283813600435 -0.031848909816528576 -0.05497697517156483 ]
+Hidden node 3: [ 1.2436095911784393 -1.5605505296723996 2.8679159901443 3.1987610030178892 ]
+Output layer: 
+Output node 1: [ -0.24921078519179476 -0.3748226556388021 1.2334582335997955 ]
+Output node 2: [ 2.2823319311932595 -1.4464948166023686 3.426735445509528 ]
+Output node 3: [ -2.554521885603315 0.6007165374873769 -4.632430162878715 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 86.67%
+
+
+2 HIDDEN LAYERS - CROSS VALIDATION FOLD 3
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.8239908917413353 -0.7156386249504876 1.493808463928041 1.5914159802149945 ]
+Hidden node 2: [ 0.7911720435670067 -0.6979681806213506 1.463021335097174 1.549451700950698 ]
+Hidden node 3: [ 0.7810697376736977 -0.6795662798285951 1.439497783068373 1.5258935094648074 ]
+Hidden layer: 
+Hidden node 1: [ 2.3363586693030998 2.2569681900332026 2.2109537920737496 ]
+Hidden node 2: [ 0.8156510482532284 0.8192678110916469 0.8246026715595565 ]
+Hidden node 3: [ 0.7617900887637117 0.7471806091798457 0.7634434295615498 ]
+Output layer: 
+Output node 1: [ 0.8536653599147664 -0.18672123611096225 -0.24370129587079337 ]
+Output node 2: [ 2.7227914317832336 -0.5035008391211322 -0.7741014233112223 ]
+Output node 3: [ -3.9153049919053653 0.20611346431354918 0.5371799966120282 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 93.33%
+
+
+0 HIDDEN LAYERS - CROSS VALIDATION FOLD 4
+=========================================
+
+Weights of each node
+--------------------
+Output layer: 
+Output node 1: [ 0.44970702502323523 -4.5978940327469155 2.1660351408514966 -2.141720022128262 ]
+Output node 2: [ 0.33162159139477715 -2.2773193153102214 4.193454247479865 7.008883360584516 ]
+Output node 3: [ -2.1573313225964568 3.371669210000657 -4.812350938347178 -4.660163678804929 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 93.33%
+
+
+1 HIDDEN LAYERS - CROSS VALIDATION FOLD 4
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.05689300284653836 0.3439922390627108 -0.10745202646854757 -0.1470359095719895 ]
+Hidden node 2: [ 0.7461441830630019 -0.6812171580066395 1.5493196497429145 1.8159609703439747 ]
+Hidden node 3: [ 1.3329729287483247 -1.6897157994995646 3.0946962771851574 3.3369657459382847 ]
+Output layer: 
+Output node 1: [ -0.3867163161478123 -0.33958089672683855 1.3500731133825934 ]
+Output node 2: [ -1.4926155286948666 1.6715790103148396 3.8329141228878267 ]
+Output node 3: [ 0.6422137143119809 -1.9030725284481564 -5.1224713544569624 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-setosa
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-setosa
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 90.0%
+
+
+2 HIDDEN LAYERS - CROSS VALIDATION FOLD 4
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.8465577254603283 -0.7544509949230178 1.5957731957929344 1.6649817237420084 ]
+Hidden node 2: [ 0.8528284525027915 -0.7391378736127421 1.5843658966253598 1.661118031555899 ]
+Hidden node 3: [ 0.8162636565572876 -0.7153843029010205 1.5081836376414663 1.5798104706405247 ]
+Hidden layer: 
+Hidden node 1: [ 2.4838423544575847 2.469669487814383 2.320438663657037 ]
+Hidden node 2: [ 0.798098141729469 0.7992853087301786 0.7982329761444912 ]
+Hidden node 3: [ 0.7276757284020624 0.7298370200567305 0.7337171393697927 ]
+Output layer: 
+Output node 1: [ 1.0726210069337037 -0.2155832681082127 -0.285854948149421 ]
+Output node 2: [ 2.922410754809437 -0.555927065545694 -0.8254165494562196 ]
+Output node 3: [ -4.2752880935187445 0.24185248310919671 0.6009285485707192 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 96.67%
+
+
+0 HIDDEN LAYERS - CROSS VALIDATION FOLD 5
+=========================================
+
+Weights of each node
+--------------------
+Output layer: 
+Output node 1: [ 0.40118110178345257 -5.674570659900971 1.2299561787981166 -1.8471312894613552 ]
+Output node 2: [ 0.2245808931501164 -2.092300445500738 4.463860056617754 6.995441668329042 ]
+Output node 3: [ -2.022888339900699 3.841249171952086 -4.640911145930533 -4.726480357439782 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+--------------------------------
+Classification accuracy: 96.67%
+
+
+1 HIDDEN LAYERS - CROSS VALIDATION FOLD 5
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.2460856483052811 0.3073417520049927 0.19887124303039946 0.1900855340746926 ]
+Hidden node 2: [ 0.17261677680622595 0.377600365392481 0.0576093102583378 0.03265188496104206 ]
+Hidden node 3: [ 0.9328011726303517 -2.4109495340305536 3.3877434648506455 3.985403146329767 ]
+Output layer: 
+Output node 1: [ -0.24778374577792775 -0.2768346002968113 1.1523599340216646 ]
+Output node 2: [ -0.9106263792879147 -1.1225512813731295 5.913823267082878 ]
+Output node 3: [ 0.10670433608902231 0.31096255553997004 -6.831716903698349 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+--------------------------------
+Classification accuracy: 100.0%
+
+
+2 HIDDEN LAYERS - CROSS VALIDATION FOLD 5
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.21060586603481743 -1.490142947454517 1.713215112320733 2.1562055685737103 ]
+Hidden node 2: [ 0.2154430443792281 -1.466199411680612 1.6920643576377683 2.1290073921612143 ]
+Hidden node 3: [ 0.20162111779560685 -1.422498761065525 1.6673787118735555 2.094496791408836 ]
+Hidden layer: 
+Hidden node 1: [ 3.303296359578086 3.24077749103308 3.151421534569888 ]
+Hidden node 2: [ 0.8107476436363761 0.8306090079633003 0.8234160685057551 ]
+Hidden node 3: [ 0.7474211450786828 0.7580738475603662 0.7357916749977733 ]
+Output layer: 
+Output node 1: [ 1.0468008113299163 -0.11019689423002603 -0.21942618371349157 ]
+Output node 2: [ 6.447549040795576 -1.366157194374885 -1.6554907299371144 ]
+Output node 3: [ -7.224904249625712 0.39359853881716417 0.7676564864407549 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+--------------------------------
+Classification accuracy: 100.0%
+
+
+ ------------------------------- 
+| RADIAL BASIS FUNCTION NETWORK |
+ ------------------------------- 
+
+CROSS VALIDATION FOLD 1
+=======================
+
+Weights of each node
+--------------------
+Hidden node 1: [ 17.246153449361312 -23.978411268405218 -2.1260102769816567 ]
+Hidden node 2: [ 10.31744021707586 0.8222843238553557 -11.820816929909212 ]
+Hidden node 3: [ 15.016579019594923 -29.044061781066546 -12.364942819446648 ]
+Hidden node 4: [ -17.308906718651087 12.483465424952982 -6.588820396467436 ]
+Hidden node 5: [ -10.627978238543232 -55.06475335906517 17.70308455102488 ]
+Hidden node 6: [ 3.793526792557031 -2.5727267886927527 -4.572008994234913 ]
+Hidden node 7: [ 8.869664234752609 15.673597810505683 -6.764728537469684 ]
+Hidden node 8: [ 12.389440357345789 -10.758575512061682 -3.605509248735475 ]
+Hidden node 9: [ -1.7903513460823215 -2.088554994088908 -3.301129080168877 ]
+Hidden node 10: [ -2.4437856040872195 6.256096392053004 -7.153546360551297 ]
+Hidden node 11: [ -26.53973741665592 23.443982743586847 -4.627166652040172 ]
+Hidden node 12: [ -17.568951489284593 14.220560015987397 -5.241343995832474 ]
+Hidden node 13: [ -4.523368492705056 4.987075795240386 -5.93331756503451 ]
+Hidden node 14: [ -11.238488854654351 15.570049879596153 -3.3954187612720705 ]
+Hidden node 15: [ -3.36391000061872 3.225999463211231 -2.817457929029052 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 93.33%
+
+
+CROSS VALIDATION FOLD 2
+=======================
+
+Weights of each node
+--------------------
+Hidden node 1: [ 18.366507359217483 -14.05635054335128 -2.8719230233606625 ]
+Hidden node 2: [ 14.020644821789599 -11.068142363571244 -3.5067241395946906 ]
+Hidden node 3: [ -5.862988328816629 3.4027875133624477 -3.2269857563014397 ]
+Hidden node 4: [ 6.0722685262342315 -5.722975052994757 -3.2825286877958995 ]
+Hidden node 5: [ 2.7810900976598427 -1.8894060042237486 -2.4485007338080766 ]
+Hidden node 6: [ -0.07180146461640269 -11.164201825862644 -4.652742286699781 ]
+Hidden node 7: [ 13.684628620271125 -8.172055082888255 -6.923556849214607 ]
+Hidden node 8: [ 0.4734962784053565 -21.84551390843404 7.674442042623871 ]
+Hidden node 9: [ -1.9434687221675422 14.513671283966977 -5.276907832950866 ]
+Hidden node 10: [ -4.270580279326922 6.2777407607459965 -3.4503651779640108 ]
+Hidden node 11: [ -6.819451961641339 5.229722182005548 -3.260460174523273 ]
+Hidden node 12: [ -15.824268658014953 17.024036907969506 -13.053948210560243 ]
+Hidden node 13: [ -14.864868993608173 10.159274381915832 -5.340183711495959 ]
+Hidden node 14: [ 4.87627819810091 2.9132966740243473 -5.127982308916044 ]
+Hidden node 15: [ -24.98549627576725 19.227393081342363 -2.510051110787062 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-versicolor
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 90.0%
+
+
+CROSS VALIDATION FOLD 3
+=======================
+
+Weights of each node
+--------------------
+Hidden node 1: [ 3.853837352925619 -5.952158200678375 -2.528020171326284 ]
+Hidden node 2: [ -1.1475480243276006 0.0304522108288328 -3.208997741786591 ]
+Hidden node 3: [ -2.78059279743588 5.480501231021079 -2.554807968186505 ]
+Hidden node 4: [ 7.736596549221124 -5.906041288040911 -2.720732033663201 ]
+Hidden node 5: [ 3.9167037370287066 -3.1489623587382205 -1.8938568315585163 ]
+Hidden node 6: [ 2.4177235370893833 -8.963677686952153 -4.112999844790965 ]
+Hidden node 7: [ 8.204510681407488 -8.286428270361565 -5.0031561008337615 ]
+Hidden node 8: [ -2.6417458115726267 -20.096158153074708 4.925982039721869 ]
+Hidden node 9: [ 5.779813980152068 -1.4848942147459834 -3.9219301544250933 ]
+Hidden node 10: [ 7.074758655729981 -6.659620687628044 -2.3586997601397823 ]
+Hidden node 11: [ -6.129073486539547 5.278382268531346 -4.805415244427471 ]
+Hidden node 12: [ -16.249707719145107 16.222876943041094 -14.689437941334011 ]
+Hidden node 13: [ -17.752820083623195 17.141075062166998 -5.864913723362552 ]
+Hidden node 14: [ -2.9271696571239425 5.352359251543005 -4.2997521891292845 ]
+Hidden node 15: [ -10.45429872644427 12.02350854697501 -2.1324581767105757 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-versicolor
+--------------------------------
+Classification accuracy: 90.0%
+
+
+CROSS VALIDATION FOLD 4
+=======================
+
+Weights of each node
+--------------------
+Hidden node 1: [ 9.108900920849207 -9.588421217597569 -2.626491133816208 ]
+Hidden node 2: [ 4.879597953591795 -5.53254507416044 -3.347848872699892 ]
+Hidden node 3: [ 0.6120844563477802 1.9617224346913684 -3.2496461053592576 ]
+Hidden node 4: [ 7.328278579919664 -7.8614608671377395 -3.2796637852883808 ]
+Hidden node 5: [ 15.838326266318791 -14.391544595105282 -2.4603590355287492 ]
+Hidden node 6: [ 0.9493423076531933 -7.497163489610086 -2.1838912036145564 ]
+Hidden node 7: [ 8.106377794397215 -7.114431047190292 -4.936581345377819 ]
+Hidden node 8: [ 1.7571560924344565 -21.83171728328289 7.570573402687915 ]
+Hidden node 9: [ 1.9522133387159364 3.79213761963719 -5.537681308953582 ]
+Hidden node 10: [ -4.650398708687158 4.059661235398868 -3.1325023537610526 ]
+Hidden node 11: [ -7.577753419334211 7.207957510309916 -4.72857271325739 ]
+Hidden node 12: [ -17.82879147458755 17.229624319911352 -14.407270079078778 ]
+Hidden node 13: [ -32.13011470863016 30.68289534661638 -5.781344731025696 ]
+Hidden node 14: [ -4.711748457463787 11.82815562991097 -4.822980979242049 ]
+Hidden node 15: [ -17.258827509528274 14.903792838886627 -2.237208039050806 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-virginica
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+--------------------------------
+Classification accuracy: 93.33%
+
+
+CROSS VALIDATION FOLD 5
+=======================
+
+Weights of each node
+--------------------
+Hidden node 1: [ 16.94089417144002 -16.19068832493725 -1.914492118357492 ]
+Hidden node 2: [ 12.676335792758467 -12.15370797456166 -2.768108084656541 ]
+Hidden node 3: [ -10.530932117234746 10.351576309712383 -3.8234376499868414 ]
+Hidden node 4: [ 11.875024687907205 -13.967261790568413 -3.3347138249759567 ]
+Hidden node 5: [ 3.9655379673089453 -2.940179368020885 -2.949837955237496 ]
+Hidden node 6: [ 2.702991381502389 -7.9921246996189215 -6.600558311770976 ]
+Hidden node 7: [ 14.711270506623915 -13.014826109547874 -7.2246025848656235 ]
+Hidden node 8: [ -3.274259580203019 -27.264023996581077 9.794072043483101 ]
+Hidden node 9: [ -0.18288350749632212 10.639411131664843 -6.729658369269155 ]
+Hidden node 10: [ -2.766336255456451 4.484558138585472 -3.725912145534435 ]
+Hidden node 11: [ -7.133151215161144 5.85667145289058 -5.580590981994951 ]
+Hidden node 12: [ -12.560001489855853 12.59582466500948 -14.090346466213957 ]
+Hidden node 13: [ -20.68233345380795 18.550663128541153 -6.26201668558632 ]
+Hidden node 14: [ 4.501871718583816 9.104305361635998 -5.850857144540278 ]
+Hidden node 15: [ -20.86349562777377 20.864407721090565 -2.574188291757305 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-versicolor
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-setosa	|	Iris-setosa
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-versicolor	|	Iris-versicolor
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+	Iris-virginica	|	Iris-virginica
+--------------------------------
+Classification accuracy: 96.67%
+

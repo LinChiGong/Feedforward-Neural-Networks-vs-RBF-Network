@@ -1,0 +1,37 @@
+Perform classification using Feedforward Neural Network and Radial Basis Network on 5 datasets from the UCI Machine Learning repository. Performances shown here are average classification accuracies obtained from 5-fold cross validation.
+
+soybean-small
+-----------------------
+Feedforward Network - No hidden layer: 95.96%
+Feedforward Network - One hidden layer: 93.74%
+Feedforward Network - Two hidden layers: 91.52%
+Radial Basis Function Network: 87.88%
+
+house-votes-84
+-----------------------
+Feedforward Network - No hidden layer: 94.93%
+Feedforward Network - One hidden layer: 95.61%
+Feedforward Network - Two hidden layers: 95.85%
+Radial Basis Function Network: 86.37%
+
+breast-cancer-wisconsin
+-----------------------
+Feedforward Network - No hidden layer: 96.41%
+Feedforward Network - One hidden layer: 96.41%
+Feedforward Network - Two hidden layers: 95.69%
+Radial Basis Function Network: 94.7%
+
+iris
+-----------------------
+Feedforward Network - No hidden layer: 92.0%
+Feedforward Network - One hidden layer: 91.33%
+Feedforward Network - Two hidden layers: 94.67%
+Radial Basis Function Network: 92.67%
+
+glass
+-----------------------
+Feedforward Network - No hidden layer: 60.98%
+Feedforward Network - One hidden layer: 53.85%
+Feedforward Network - Two hidden layers: 58.74%
+Radial Basis Function Network: 65.07%
+

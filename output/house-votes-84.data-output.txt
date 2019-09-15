@@ -1,0 +1,2169 @@
+Dataset: house-votes-84 from UCI Machine Learning repository
+
+ ---------------------------- 
+| FEEDFORWARD NEURAL NETWORK |
+ ---------------------------- 
+
+0 HIDDEN LAYERS - CROSS VALIDATION FOLD 1
+=========================================
+
+Weights of each node
+--------------------
+Output layer: 
+Output node 1: [ 0.3302681849869614 0.3736704433866192 0.7895705391860488 -1.4624271557293211 -0.48160608976979924 0.010984669662926974 0.039392096814193235 0.34750934343898593 0.6140234596829284 -0.236116155918565 0.9659751501155969 -0.6191526683263331 -0.1549518183901241 -0.39423085418593984 0.47823305882217215 0.08414071121503801 ]
+Output node 2: [ -0.3373236455343317 -0.3771146768401718 -0.7925771154269893 1.4613057489842798 0.48248832765430166 -0.005770072518857083 -0.04660466781087227 -0.33792706911160886 -0.618204467983404 0.2351614593719004 -0.9626081379364491 0.6144755599471621 0.14782426514939076 0.39908919765384526 -0.4788708162336688 -0.08315366348976277 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 97.67%
+
+
+1 HIDDEN LAYERS - CROSS VALIDATION FOLD 1
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.3359628623114305 0.4111173590731272 0.8597081173611457 -1.902305370435282 -0.6430206094027852 -0.12779641702711975 -0.05174103548164349 0.2738619088669339 0.6571922759356531 -0.26807109702261755 1.0655798821287912 -0.804824610669879 -0.18472895728725153 -0.5270361589636956 0.43628474372907433 0.0015835035528363396 ]
+Hidden node 2: [ 0.33532753355888767 0.4350641658395067 0.8895526763798137 -1.9943925452448505 -0.6549364212813323 -0.11901874335925332 -0.08092941491747929 0.25364861792866283 0.6797311612967348 -0.2896916676421644 1.1351511524940645 -0.8218624289941123 -0.17099098706426596 -0.530750035450469 0.4460172031953508 -0.0069198868379952 ]
+Output layer: 
+Output node 1: [ 2.2719006146820093 2.3971072318421465 ]
+Output node 2: [ -2.2696741194443444 -2.401277121316381 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 97.67%
+
+
+2 HIDDEN LAYERS - CROSS VALIDATION FOLD 1
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.2662863826961099 0.5386817424230499 0.7213622987020927 -2.212303579289575 -0.5914569466576008 -0.07359185420960421 -0.3062970929179294 0.08836253451526703 0.6231477369110083 -0.34215528084726166 1.2664656205304183 -0.6750441799339413 -0.015398409841226831 -0.46506486150304815 0.47118175023966824 -0.008691930265894997 ]
+Hidden node 2: [ 0.2549579680734316 0.48020878755718277 0.6904743529098427 -2.05719715468417 -0.5784843088501195 -0.07516886218821446 -0.23831132452114048 0.1050437831272801 0.6071891816906517 -0.3255082736364583 1.166887991212504 -0.6626040904059932 -0.03613270739736841 -0.44814750643740076 0.4439742238887857 0.004616241994518917 ]
+Hidden layer: 
+Hidden node 1: [ 3.4124607351275404 3.135595311174435 ]
+Hidden node 2: [ 0.6634969776932678 0.5975153480022032 ]
+Output layer: 
+Output node 1: [ 4.341961409114386 0.005497777780832001 ]
+Output node 2: [ -4.338414582769991 -0.01135155041394871 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 97.67%
+
+
+0 HIDDEN LAYERS - CROSS VALIDATION FOLD 2
+=========================================
+
+Weights of each node
+--------------------
+Output layer: 
+Output node 1: [ 0.38849930496022905 0.3389178160857242 0.7648086593138596 -1.5756263404573145 -0.4255840618385588 0.1267969407917949 0.03275642513856792 0.3329131456309111 0.447019095016039 -0.2966681209294976 0.9056285038041774 -0.5644548950186313 -0.25953117016915234 -0.3534199449275103 0.41189462388631504 0.19333192736210178 ]
+Output node 2: [ -0.38611724370140377 -0.34004461346237497 -0.7625810375252914 1.5817225805645017 0.426296748850839 -0.12238076536856024 -0.02895317909487703 -0.3317807014063873 -0.4470957657875206 0.2890901223857012 -0.9021402901493737 0.5609535443723485 0.24939592829329554 0.3572758231090813 -0.42028050474031126 -0.19995985325606652 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 94.19%
+
+
+1 HIDDEN LAYERS - CROSS VALIDATION FOLD 2
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.3966578676980437 0.3222443489194607 0.9163234708016099 -1.8501276352863718 -0.5811688927887452 -0.0330352258270082 0.00500911168437226 0.34984046531114665 0.46946074878972327 -0.3347727076960338 0.9594273458182958 -0.7914654858585619 -0.3659306704160009 -0.5391301229024634 0.4570721908648694 0.18667867373863473 ]
+Hidden node 2: [ 0.39598153042767176 0.32412560322063055 0.92891688899671 -1.8466150628913318 -0.5878615915989548 -0.03788242258172662 0.011127506614222248 0.35026384255215215 0.4718002292972922 -0.3356060153419017 0.9535275420950093 -0.7962369073274551 -0.37448284044227853 -0.5312608465020704 0.45192725216549656 0.18517199075076352 ]
+Output layer: 
+Output node 1: [ 2.1817364189320503 2.1950786759856213 ]
+Output node 2: [ -2.1866811919830513 -2.1911679124069345 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	republican
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 93.02%
+
+
+2 HIDDEN LAYERS - CROSS VALIDATION FOLD 2
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.43888309638603595 0.2690608742004997 0.8220854606501439 -1.51795310464848 -0.5975662422769031 -0.11532255441181322 0.08189111143347699 0.3964883326254546 0.49968736544647396 -0.27330765136932694 0.7901858881281398 -0.7235859851435287 -0.32431753107795364 -0.5070138875099787 0.40297957300263487 0.1546565238663543 ]
+Hidden node 2: [ 0.4450373417441245 0.2862039659103959 0.8515070241111968 -1.591242675302485 -0.6039029149450073 -0.11166965049801081 0.06685569172200481 0.4030874027547199 0.5107496038228547 -0.2824609188627251 0.8290803349113252 -0.7372502839378563 -0.33718271230370206 -0.5227469883960194 0.40341666994101055 0.1570715242022903 ]
+Hidden layer: 
+Hidden node 1: [ 2.650118468553162 2.7897628903411356 ]
+Hidden node 2: [ 0.9561827096213877 1.0123675116060824 ]
+Output layer: 
+Output node 1: [ 3.269027459084945 0.5424356514303063 ]
+Output node 2: [ -3.272301352484056 -0.5404691465115278 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	republican
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 93.02%
+
+
+0 HIDDEN LAYERS - CROSS VALIDATION FOLD 3
+=========================================
+
+Weights of each node
+--------------------
+Output layer: 
+Output node 1: [ 0.3721910932966424 0.3062558038808003 0.880026712771247 -1.4783568492193957 -0.3068376182514091 0.1655358052279 0.08414466376497683 0.24242487819693914 0.483119972966307 -0.2622678907062066 1.0136267225383535 -0.554145893604542 -0.24271327408065688 -0.3111142147172651 0.42944280806384055 0.17877146525246088 ]
+Output node 2: [ -0.3691090653199657 -0.3089329549647777 -0.8783574635279 1.4831023152918679 0.312319688245463 -0.16363410981579252 -0.07619212124809743 -0.2481496543324545 -0.4832097050020082 0.2618669045774473 -1.0176332159953114 0.5494759682608251 0.24716298708511814 0.30491694837243116 -0.41984574723249896 -0.18925405048789357 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 96.51%
+
+
+1 HIDDEN LAYERS - CROSS VALIDATION FOLD 3
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.38480980894044575 0.1804272576385148 0.9206818177198991 -2.0346722237762567 -0.551653840998774 -0.018865641511917507 -0.06948505449779437 0.15737355388626442 0.5715474005006879 -0.41595215276917913 1.2315692099317417 -0.7417360659911988 -0.38829221357118715 -0.5427604818266878 0.45108822354165123 0.040725408469838985 ]
+Hidden node 2: [ 0.37852603349813724 0.1677624911714147 0.8847294203947711 -1.910599862354222 -0.5410656114346329 -0.036892890376154945 -0.03804213099537464 0.18088759239410546 0.5661827158750571 -0.4054911100286142 1.1469908121668666 -0.7119039797311363 -0.38216276530893134 -0.5336209466918562 0.43871350761522365 0.04707951124609163 ]
+Output layer: 
+Output node 1: [ 2.39511774581562 2.2351097692822695 ]
+Output node 2: [ -2.3997101253629425 -2.229290135900721 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 97.67%
+
+
+2 HIDDEN LAYERS - CROSS VALIDATION FOLD 3
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.4198434032675165 0.21696994869874872 0.8339864730236152 -1.61955485088364 -0.5419746089038658 -0.07252886328680574 0.0046836876956007824 0.26127125099783555 0.5205132638568924 -0.3441868179273234 0.9798221959737871 -0.6981131246992268 -0.3235836649664364 -0.4906176123484517 0.4238442813205877 0.13403520067567715 ]
+Hidden node 2: [ 0.4314716757949513 0.23862236808567575 0.8638237138468638 -1.7019997608991373 -0.5490916932852864 -0.06778833694515907 -0.01743340007863601 0.2422296107973158 0.5410357097046375 -0.3533322896555586 1.0271744158205105 -0.7089082257980855 -0.31780590518747626 -0.5040965663618866 0.43674086682161956 0.13036044284845902 ]
+Hidden layer: 
+Hidden node 1: [ 2.7869291156459703 2.934566200372623 ]
+Hidden node 2: [ 1.0248247048381942 1.0997301983608831 ]
+Output layer: 
+Output node 1: [ 3.515928866334265 0.6294031851172812 ]
+Output node 2: [ -3.5099434449352045 -0.6449585047756182 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 96.51%
+
+
+0 HIDDEN LAYERS - CROSS VALIDATION FOLD 4
+=========================================
+
+Weights of each node
+--------------------
+Output layer: 
+Output node 1: [ 0.2848414675958461 0.15408934975677335 0.7061540427755362 -1.0636722658957192 -0.3619564600734007 -0.11469995626709006 0.15503219271351354 0.28702044391795584 0.45281916794081684 -0.06862489785700196 0.6155436929426986 -0.5700739754624876 -0.2613612826363679 -0.2964899727151776 0.488774912054635 0.18009698168135677 ]
+Output node 2: [ -0.2913567432090238 -0.1517511461904258 -0.7076939460449709 1.061592587353188 0.36361070649157223 0.12499999869419073 -0.16331919869584335 -0.2795237149842872 -0.45704655268284683 0.06760288388551143 -0.623632092745186 0.5638032164763724 0.25589854420730673 0.29614340329118594 -0.4865824082767497 -0.16690798518799013 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 90.7%
+
+
+1 HIDDEN LAYERS - CROSS VALIDATION FOLD 4
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.39947139241683477 0.20040403368544793 0.8952011028461965 -1.7813687346113676 -0.539114621589308 -0.12506721254519662 -0.05555475526888459 0.22905905530085144 0.6326781882292513 -0.17922617007162908 0.998092261180886 -0.8354398446587237 -0.2836700755911386 -0.5233968657158147 0.5587308040076349 0.12737973535951164 ]
+Hidden node 2: [ 0.39227538909385395 0.18983358632030953 0.8737403601012896 -1.6907274786680824 -0.5398634118292615 -0.1315134323966681 -0.029918412587380067 0.23577316614460303 0.6145983008549476 -0.17217462207816225 0.943276233418033 -0.7987196168081145 -0.2979036626843187 -0.5056001394742808 0.5380369354252801 0.13032820768861222 ]
+Output layer: 
+Output node 1: [ 2.2589745611391345 2.122611748970821 ]
+Output node 2: [ -2.258470529007617 -2.1233716777529112 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 91.86%
+
+
+2 HIDDEN LAYERS - CROSS VALIDATION FOLD 4
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.413343854393854 0.2945609922951657 0.9446098084567539 -1.789220583491233 -0.4889549342044061 -0.13968462579637145 -0.2034645588533243 0.14149662307790906 0.6236150627296273 -0.20128514462905445 1.1284812363374512 -0.8524608403655135 -0.24913247133238384 -0.48446474128926276 0.5330812331832481 0.1573254141816694 ]
+Hidden node 2: [ 0.39609565314772394 0.2558040608477999 0.8896959313970694 -1.6565458491388734 -0.4763688591943032 -0.13952024246970465 -0.15746194414863215 0.16387015458323573 0.5848282139974824 -0.1907453835015445 1.028688352126613 -0.8013339134173333 -0.2514367121776207 -0.4654109509294088 0.5052712431739816 0.15889164524265534 ]
+Hidden layer: 
+Hidden node 1: [ 3.2821206436329367 2.977693847180109 ]
+Hidden node 2: [ 0.6635974369187491 0.5847353171782523 ]
+Output layer: 
+Output node 1: [ 4.044647325082758 0.012977067425889182 ]
+Output node 2: [ -4.048756575228289 -0.014754275819873038 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 95.35%
+
+
+0 HIDDEN LAYERS - CROSS VALIDATION FOLD 5
+=========================================
+
+Weights of each node
+--------------------
+Output layer: 
+Output node 1: [ 0.22779450509545274 0.29557813755724555 0.9619205840617656 -1.3634071901781966 -0.4505032223060421 0.2156248233619108 -0.029791297859342116 0.3113801217567222 0.5104675398110234 -0.2574939251285706 0.933491240520112 -0.5913320271299578 -0.2687870188426843 -0.3104892016385898 0.5166676958452764 0.24998404558485496 ]
+Output node 2: [ -0.2270098294939051 -0.29596874772557774 -0.9683732822804669 1.3661715389098656 0.4547563066820873 -0.20896619878088837 0.029708774710342202 -0.31336589307464446 -0.5063494213369996 0.25559387090877317 -0.9305352766072009 0.5887253142292679 0.26087125004236245 0.30269985652002646 -0.5125256083064201 -0.256737722937807 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 95.6%
+
+
+1 HIDDEN LAYERS - CROSS VALIDATION FOLD 5
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.21908969759817784 0.3216595007830031 1.1024561096902195 -1.8402357596011947 -0.7022803096476327 0.16836615581223166 -0.19598094503568841 0.2509774601867258 0.6092497250511767 -0.3473816533278436 1.1418678408660727 -0.7874785599493133 -0.2917019548649772 -0.4794525488398407 0.5442987145974458 0.11293893888415811 ]
+Hidden node 2: [ 0.22569537993636068 0.3170131097232402 1.079621707523051 -1.7980549172485532 -0.6898943632604047 0.15332797592580327 -0.18127470735548482 0.2659776956259684 0.600081175971034 -0.3369663005265606 1.1012722250766933 -0.7759740219778216 -0.2951016715689757 -0.4704335550787754 0.5408982557609616 0.10668783415265327 ]
+Output layer: 
+Output node 1: [ 2.360776177956024 2.290095550109408 ]
+Output node 2: [ -2.3584840075249853 -2.2912032083993545 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 97.8%
+
+
+2 HIDDEN LAYERS - CROSS VALIDATION FOLD 5
+=========================================
+
+Weights of each node
+--------------------
+Hidden layer: 
+Hidden node 1: [ 0.2943096692713238 0.3389843963373103 1.022420423611457 -1.691511271856972 -0.6549206303357209 0.1899640415493706 -0.15837660376427568 0.2597182876383849 0.4881371145532099 -0.2882879282078099 0.9917530779425846 -0.7465927751076059 -0.3271998448529408 -0.4967636744217175 0.5519903578025852 0.1248207018943485 ]
+Hidden node 2: [ 0.2892246941147428 0.3131416573662371 0.9758105911268753 -1.5999918462690852 -0.6281103650399358 0.15969316448687915 -0.12535770101302982 0.26073056182757126 0.4790432381897334 -0.26726211232372993 0.9464537821611658 -0.7339319720685367 -0.32634659343384864 -0.47550019841390595 0.5331340183183096 0.12548024375750708 ]
+Hidden layer: 
+Hidden node 1: [ 3.0882708411244404 2.894227681439785 ]
+Hidden node 2: [ 0.7439923340589644 0.6877412204044991 ]
+Output layer: 
+Output node 1: [ 3.8202727583199536 0.13853127735372597 ]
+Output node 2: [ -3.818771099164964 -0.14325918176403735 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 96.7%
+
+
+ ------------------------------- 
+| RADIAL BASIS FUNCTION NETWORK |
+ ------------------------------- 
+
+CROSS VALIDATION FOLD 1
+=======================
+
+Weights of each node
+--------------------
+Hidden node 1: [ 0.1516716644581428 -0.151626833022572 ]
+Hidden node 2: [ 97.35754964699575 -97.35717751718369 ]
+Hidden node 3: [ 43.26172447038801 -43.265099966835734 ]
+Hidden node 4: [ -9.502538427452327 9.504280466507254 ]
+Hidden node 5: [ 6.415178180516227 -6.415854228006898 ]
+Hidden node 6: [ -21.766106458300168 21.767346198382757 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	democrat
+--------------------------------
+Classification accuracy: 61.63%
+
+
+CROSS VALIDATION FOLD 2
+=======================
+
+Weights of each node
+--------------------
+Hidden node 1: [ -10.262658361325418 10.262659969369274 ]
+Hidden node 2: [ 53.56167416063735 -53.56168295726161 ]
+Hidden node 3: [ -75.19823623760514 75.19824841929375 ]
+Hidden node 4: [ 17.431667519666863 -17.431658403562786 ]
+Hidden node 5: [ 10.911513561705771 -10.911521159344767 ]
+Hidden node 6: [ 6.693038277473922 -6.693039260958373 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 95.35%
+
+
+CROSS VALIDATION FOLD 3
+=======================
+
+Weights of each node
+--------------------
+Hidden node 1: [ -6.695520571792111 6.695520647181763 ]
+Hidden node 2: [ 50.96631653473346 -50.96631744872997 ]
+Hidden node 3: [ -75.56077101940578 75.5607724293895 ]
+Hidden node 4: [ 5.790368994643268 -5.790368867678832 ]
+Hidden node 5: [ 18.76915779140871 -18.769158104987156 ]
+Hidden node 6: [ 8.52606018455684 -8.526060214435464 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 95.35%
+
+
+CROSS VALIDATION FOLD 4
+=======================
+
+Weights of each node
+--------------------
+Hidden node 1: [ -0.6108382288316341 0.6106576034397685 ]
+Hidden node 2: [ 28.575028103154338 -28.57500826445723 ]
+Hidden node 3: [ -46.04462407762197 46.04498014956763 ]
+Hidden node 4: [ 12.103191072523309 -12.100071790365458 ]
+Hidden node 5: [ 6.603442613672925 -6.60697756952514 ]
+Hidden node 6: [ 7.787841977498569 -7.787723686081201 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+--------------------------------
+Classification accuracy: 87.21%
+
+
+CROSS VALIDATION FOLD 5
+=======================
+
+Weights of each node
+--------------------
+Hidden node 1: [ -7.150401501336976 7.150401477770816 ]
+Hidden node 2: [ 43.58169491638332 -43.5816948287238 ]
+Hidden node 3: [ -51.29274068956472 51.292740621026276 ]
+Hidden node 4: [ 6.05810233658597 -6.05810246237555 ]
+Hidden node 5: [ 15.91490272609241 -15.914902599473065 ]
+Hidden node 6: [ 11.407931155911564 -11.407931155097597 ]
+
+Classification results
+----------------------
+
+	ACTUAL	 	PREDICTED
+	------	 	---------
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	democrat	|	democrat
+	republican	|	republican
+	democrat	|	democrat
+	republican	|	republican
+	republican	|	republican
+	republican	|	republican
+--------------------------------
+Classification accuracy: 92.31%
+
